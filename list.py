@@ -1,0 +1,18 @@
+lloyd={
+  "name":"Lloyd",
+  "quizzes":[],
+  "homework":[],
+  "test":[],
+}
+alice={
+  "name":"Alice",
+  "quizzes":[],
+  "homework":[],
+  "test":[],
+}
+tyler={
+  "name":"Tyler",
+  "quizzes":[],
+  "homework":[],
+  "test":[],
+}
